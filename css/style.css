@@ -51,7 +51,7 @@ input.mainInput{
 }
 input.notInclude{
     width: 100%;
-    padding: 5px;
+    padding: 10px;
     font-size: 1.5rem;
     border:0px solid #fff;
     border-radius: 4px;
@@ -59,7 +59,7 @@ input.notInclude{
 }
 button.generateButton {
     width: 100%;
-    padding: 5px;
+    padding: 10px;
     font-size: 1.5rem;
     border:0px solid #fff;
     background-color: var(--theRed);
@@ -263,10 +263,7 @@ input[type=range]:focus::-ms-fill-upper {
 
 @media only screen and (max-width: 768px) {
     input.notInclude{
-      margin-bottom : 15px;
-    }
-    .main_container{
-      margin-top:4%;
+      margin-bottom : 10px;
     }
 }
   
