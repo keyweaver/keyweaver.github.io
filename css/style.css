@@ -265,5 +265,8 @@ input[type=range]:focus::-ms-fill-upper {
     input.notInclude{
       margin-bottom : 15px;
     }
+    .main_container{
+      margin-bottom:10%;
+    }
 }
   
