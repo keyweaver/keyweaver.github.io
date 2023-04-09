@@ -60,6 +60,7 @@ input.notInclude{
 button.generateButton {
     width: 100%;
     padding: 10px;
+    font-weight:bold;
     font-size: 1.5rem;
     border:0px solid #fff;
     background-color: var(--theRed);
